@@ -33,6 +33,5 @@ public class Main {
         System.out.println("Задача №4");
         int deliveryDistance=19;
         int deliveryDay;
-
         }
     }
